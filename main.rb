@@ -1,1 +1,1 @@
-puts "火4の皆さん、こんにちは!"
+puts 'Nguyen Hai Duong：先生、こんにちは!'
